@@ -149,5 +149,16 @@ body {
 }
 
 .rantsp {
-	background-color: skyblue;
+	background-color: yellow;
+	padding: 20px;
+}
+
+.cm {
+	background-image: url("images/backgroundinverse.png");
+	display: block;
+	margin: auto;
+	width: 80%;
+	text-align: center;
+	font: courier;
+	font-size: large;
 }
