@@ -1,5 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
+
+.gifbackground {
+	background-image: url(http://farm4.static.flickr.com/3618/3697567056_45ae16f677_o.gif)
+}
+
 body {
 	background-image: url("images/background.png");
 }
@@ -133,4 +138,16 @@ body {
 	padding: 5%;
 	font-size: 200%;
 	color: white;
+}
+
+.mambo {
+	width: 80%;
+	margin: auto;
+	display: block;
+	background-image: url("images/background.gif");
+	background-size: contain;
+}
+
+.rantsp {
+	background-color: skyblue;
 }
