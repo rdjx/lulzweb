@@ -162,3 +162,21 @@ body {
 	font: courier;
 	font-size: large;
 }
+
+.reviewtl {
+	text-align: center;
+	background-image: url(images/background2.jpg);
+	background-size: contain;
+	width: 75%;
+	margin: auto;
+}
+
+.reviewimg {
+	display: block;
+	width: 70%;
+	margin: auto;
+}
+
+.dumblink {
+	background-color: white;
+}
