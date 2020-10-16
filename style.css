@@ -180,3 +180,14 @@ body {
 .dumblink {
 	background-color: white;
 }
+
+#HCB_comment_box {
+	width: 80%;
+	margin: auto;
+	display: block;
+}
+
+.truths {
+	background-color: black;
+	color: white;
+}
