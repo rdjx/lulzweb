@@ -5,6 +5,10 @@
 	background-image: url(http://farm4.static.flickr.com/3618/3697567056_45ae16f677_o.gif)
 }
 
+.ybackground {
+	background-image: url(images/buyashutter.jpg);
+}
+
 body {
 	background-image: url("images/background.png");
 }
@@ -161,4 +165,25 @@ body {
 	text-align: center;
 	font: courier;
 	font-size: large;
+}
+
+.yhd {
+	background-color: rgba(100, 255, 255, 50%);
+	width: 50%;
+}
+
+.yname {
+	font-family: 'Gloria Hallelujah', cursive;
+	font-size: 150%;
+	background-color: rgba(255, 255, 255, 50%);
+	width: 20%;
+	text-align: center;
+	margin: auto;
+}
+
+.ycontent {
+	background-color: rgba(255, 255, 250, 55%);
+	width: 20%;
+	text-align: center;
+	margin: auto;
 }
